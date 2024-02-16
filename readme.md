@@ -1,5 +1,5 @@
 Nome repo: js-snack-primo-giorno
-Siete pronti a scrivere le vostre prime righe di codice? :baby-yoda:
+Siete pronti a scrivere le vostre prime righe di codice?
 Esercizio 1
 Dichiara una variabile chiamata number e assegnale il valore 100. Stampa il valore della variabile in console.
 Esercizio 2
