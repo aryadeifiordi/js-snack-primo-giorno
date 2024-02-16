@@ -20,5 +20,11 @@ console.log(radius * 2 * PI);
 
 let circle = 56.52
 
-console.log(56.52)
+console.log(56.52);
+
+let name = 'Carlo' /* string */
+
+let marco = 'Carlo'
+
+console.log('name');
 
